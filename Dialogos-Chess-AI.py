@@ -729,7 +729,7 @@ def reset_engine():
 
 
 def interactive_gameplay():
-    print("\033[1;32m=== Don Zouán Chess AI Interactive ===\033[0m")
+    print("\033[1;32m=== dialogos Chess AI Interactive ===\033[0m")
     fen = input("\033[36mΔώσε αρχικό FEN ή άφησέ το κενό για default:\033[0m ")
     board = chess_lib.Board(fen) if fen.strip() else chess_lib.Board()
     ai_side_input = input("\033[36mAI παίζει με ποιο χρώμα; (w=Λευκά, b=Μαύρα):\033[0m ").lower()
