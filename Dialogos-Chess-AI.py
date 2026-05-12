@@ -351,7 +351,7 @@ def fast_see(board, move):
     
     return gain
 
-def quiescence(board, alpha, beta, maximizing, start_time, time_limit, max_depth=0, depth=0, ply=0):
+def quiescence(board, alpha, beta, maximizing, start_time, time_limit, max_depth=5, depth=0, ply=0):
     """
     Η δική σου Ultra-fast quiescence ενισχυμένη με SEE:
     - Μόνο captures που "βγάζουν νόημα"
