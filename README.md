@@ -53,4 +53,4 @@ Follow the on-screen prompts to select your side, set the AI thinking time limit
 ---
 
 ## 📊 Benchmarks & Performance
-In full-game testing against Chess.com's **Wally (1800 Elo bot)**, *Dialogos* secured decisive victories operating at a steady **Depth 5**, maintaining an average **Accuracy of 86.5%** with 0 blunders and 0 mistakes.
+In full-game testing against Chess.com's **li (2000 Elo bot)**, *Dialogos* secured decisive victories operating at a steady **Depth 5**, maintaining an average **Accuracy of 86.5%** with 0 blunders and 0 mistakes.
