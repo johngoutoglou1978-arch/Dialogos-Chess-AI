@@ -57,7 +57,7 @@ In full-game testing against Chess.com's **li (2000 Elo bot)**, *Dialogos* secur
 
 ### 📱 Android Optimization & Mobile Performance
 
-Don Zouán Chess AI is uniquely designed and fully optimized to run directly on mobile devices. It delivers high-level tactical performance even within the hardware and resource constraints of smartphone processors.
+dialogos Chess AI is uniquely designed and fully optimized to run directly on mobile devices. It delivers high-level tactical performance even within the hardware and resource constraints of smartphone processors.
 
 * **Mobile Deployment:** The engine runs flawlessly on Android environments using apps like **Pydroid 3** or terminal emulators like **Termux**.
 * **Android Benchmarks:** In pure Python mobile environments, the engine achieves a steady speed of **1,500+ NPS (Nodes Per Second)**. 
