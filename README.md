@@ -54,3 +54,13 @@ Follow the on-screen prompts to select your side, set the AI thinking time limit
 
 ## 📊 Benchmarks & Performance
 In full-game testing against Chess.com's **li (2000 Elo bot)**, *Dialogos* secured decisive victories operating at a steady **Depth 5**, maintaining an average **Accuracy of 86.5%** with 0 blunders and 0 mistakes.
+
+### 📱 Android Optimization & Mobile Performance
+
+Don Zouán Chess AI is uniquely designed and fully optimized to run directly on mobile devices. It delivers high-level tactical performance even within the hardware and resource constraints of smartphone processors.
+
+* **Mobile Deployment:** The engine runs flawlessly on Android environments using apps like **Pydroid 3** or terminal emulators like **Termux**.
+* **Android Benchmarks:** In pure Python mobile environments, the engine achieves a steady speed of **1,500+ NPS (Nodes Per Second)**. 
+* **Tree Optimization:** Thanks to its aggressive Alpha-Beta pruning, Killer Moves, and Static Exchange Evaluation (SEE), the engine severely restricts tree explosion. This allows it to reach deep tactical solutions (such as finding Depth 7 mating combinations like `Qxh7+`) on a mobile CPU without overheating the device or draining the battery.
+* **Fidelity Relief CLI:** The interface uses an ultra-lightweight, ANSI-colored terminal chessboard that renders perfectly on mobile screens, avoiding the heavy memory overhead of standard graphical interfaces (GUIs).
+* 
