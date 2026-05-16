@@ -1,6 +1,6 @@
 # Dialogos Chess AI
 
-**Dialogos** is a strategic, complete chess engine written in Python. It features a highly tuned evaluation function, sophisticated move ordering, and tactical quiescence search, achieving a performance equivalent to **1800+ Elo** against top chess platform bots (e.g., Chess.com's Wally).
+**Dialogos** is a strategic, complete chess engine written in Python. It features a highly tuned evaluation function, sophisticated move ordering, and tactical quiescence search, achieving a performance equivalent to **2000+ Elo** against top chess platform bots (e.g., Chess.com's Wally).
 
 ---
 
